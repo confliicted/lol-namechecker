@@ -7,3 +7,8 @@ const client = new discord.Client({
 });
 
 client.login(process.env.DISCORDTOKEN)
+
+client.once('ready', ()=>{
+    console.log("Connection established");
+    
+});
