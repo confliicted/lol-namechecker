@@ -1,0 +1,23 @@
+{
+  "name": "morgana-bot",
+  "version": "1.0.0",
+  "description": "discord bot for diverse functions involving League Of Legends as the main theme",
+  "main": "morgana.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^13.8.0",
+    "dotenv": "^16.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/confliicted/morgana-bot.git"
+  },
+  "author": "Antonella (confliicted)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/confliicted/morgana-bot/issues"
+  },
+  "homepage": "https://github.com/confliicted/morgana-bot#readme"
+}
